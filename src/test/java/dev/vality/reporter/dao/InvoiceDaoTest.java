@@ -40,9 +40,4 @@ public class InvoiceDaoTest {
         assertNotNull(invoicePurpose);
         assertEquals(product, invoicePurpose);
     }
-
-    @Test
-    public void getTestTest() {
-
-    }
 }
